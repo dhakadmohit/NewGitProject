@@ -1,0 +1,1 @@
+print("My college name is LNCT\n");
